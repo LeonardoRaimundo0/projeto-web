@@ -1,0 +1,26 @@
+d6ae84c +++Mundo
+3d3fcbb ++Mundo
+ef4692c +Mundo
+128c141 Código Adicionado
+32823c1 Aidicona código
+8109344 Adiciona Código
+5b15743 Página_html
+a44161a Nome_curso
+commit 3d3fcbb31d1f6c6e10ddedb5296dd57e55aeb301
+Author: Leonardo Raimundo <leorraimundo@gmail.com>
+Date:   Fri Mar 27 16:29:46 2026 +0000
+
+    ++Mundo
+
+diff --git a/index.html b/index.html
+index f2e3408..4998fdb 100644
+--- a/index.html
++++ b/index.html
+@@ -5,6 +5,7 @@
+ </head>
+ <body>
+  <h1>Adeus Mundo!</h1>
++<h1>Adeus Mundo!</h1>
+ <h1>Adeus Mundo!</h1>
+  <p>Sou estudante de
+ Engenharia de Software.</p>
